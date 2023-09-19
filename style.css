@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This centers the content vertically */
+}
+
+form {
+    /* Add your form styling here */
+    width: 400px; /* Set a fixed width for your form */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
